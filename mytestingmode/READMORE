@@ -1,0 +1,10 @@
+Visit our website: www.gothic-online.com.pl
+Community assets: https://gothic-online.com.pl/scripts
+Documentation: https://gothicmultiplayerteam.gitlab.io/docs/
+
+== Running 32-bit server on 64-bit machine ==
+Step 1:
+    apt-get update -q
+
+Step 2:
+    apt-get install -y -q libc6-dev-i386 gcc-multilib g++-multilib

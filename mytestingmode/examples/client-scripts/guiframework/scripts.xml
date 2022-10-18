@@ -1,0 +1,9 @@
+<server>
+	
+	<!-- Server side -->
+	
+
+	<!-- Client side -->
+	<script src="gui.nut" type="client" />
+
+</server>

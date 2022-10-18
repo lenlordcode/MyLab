@@ -1,0 +1,18 @@
+<server>
+	
+	<!-- Server side -->
+	
+
+	<!-- Client side -->
+	<script src="packets.nut" type="client" />
+	
+	<script src="account_registration.nut" type="client" />
+	<script src="main.nut" type="client" />
+	<script src="game.nut" type="client" />
+	<script src="counter.nut" type="client" />
+	<script src="shop.nut" type ="client" />
+
+	
+	
+
+</server>

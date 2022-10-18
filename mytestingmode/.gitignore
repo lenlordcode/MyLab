@@ -1,0 +1,8 @@
+/data.bin
+/server.log
+
+/*.so
+/*.dll
+
+/G2O_Server
+/G2O_Server.exe

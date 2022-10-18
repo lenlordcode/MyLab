@@ -1,0 +1,8 @@
+<server>
+	
+	
+	<!-- Client side -->
+	<import src="start/scripts.xml" />
+	<import src="npc/scripts.xml" />
+	
+</server>

@@ -1,0 +1,14 @@
+<server>
+	
+	<!-- Server side -->
+	
+
+	<!-- Client side -->
+	
+	<script src="mobs.nut" type="client" />
+
+
+	
+	
+
+</server>

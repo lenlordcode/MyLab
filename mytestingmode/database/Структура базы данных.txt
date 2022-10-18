@@ -1,0 +1,8 @@
+NAME_FILE.txt - namePlayer
+// Parms - player
+1.Name
+2.Password
+3.Mac
+4.AdmLvl
+5.Kill
+6.Death

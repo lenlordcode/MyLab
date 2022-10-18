@@ -1,0 +1,14 @@
+<server>
+	
+	<!-- Server side -->
+	<script src="packets.nut" type="server" />
+	<script src="main.nut" type="server" />
+	<script src="file.nut" type="server" />
+	<script src="player.nut" type="server" />
+	<script src="playerlist.nut" type="server" />
+	<script src="account_registration.nut" type ="server"/>
+	<script src="game.nut" type="server" />
+	<script src="counter.nut" type="server" />
+	<script src="shop.nut" type="server" />
+
+</server>

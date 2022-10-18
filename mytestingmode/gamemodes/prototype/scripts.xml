@@ -1,0 +1,19 @@
+<server>
+	
+	<!-- Server side -->
+	<import src="server-scripts/start/scripts.xml" />
+	<script src="general_parms.nut" type ="server" />
+
+
+	
+	<!-- Client side -->
+	<import src="client-scripts/start/scripts.xml" />
+	<import src="client-scripts/npc/scripts.xml" />
+	<script src="general_parms.nut" type ="client" />
+	<script src="general_list_items.nut" type ="client" />
+	
+
+
+
+
+</server>
